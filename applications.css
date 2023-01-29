@@ -1,0 +1,32 @@
+
+
+
+
+
+.applications{
+  text-align:center;
+  justify-content: center;
+  line-height: 50px;
+
+}
+
+.Qualifications {
+  padding-bottom:200px;
+  padding-right: 100px;
+  width: 200px;
+}
+
+.Submit-button{
+  background-color:White;
+  Border:none;
+  border-radius:25px;
+  width:100px;
+  height:35px;
+  transition: opacity 0.3;
+}
+
+.Submit-button:hover{
+  opacity:0.5;
+  background-color:#76323f;
+}
+
